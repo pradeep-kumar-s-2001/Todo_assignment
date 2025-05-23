@@ -33,7 +33,7 @@ A full-stack ToDo Summary Assistant application built with *Spring Boot* for the
 Steps to Run:
 
 1. Clone the Repository:
-  => https://github.com/pradeep-kumar-s-2001/blog-application.git
+  => https://github.com/pradeep-kumar-s-2001/Todo_assignment.git
 
 2. Backend (Spring Boot):
    =>Open in STS/IntelliJ.
