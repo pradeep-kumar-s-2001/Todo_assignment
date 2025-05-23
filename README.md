@@ -30,7 +30,20 @@ A full-stack ToDo Summary Assistant application built with *Spring Boot* for the
 
 ---
 
-Steps to run
-1) Frontend
-->npm i
-->npm run dev
+Steps to Run:
+
+1. Clone the Repository:
+  => https://github.com/pradeep-kumar-s-2001/blog-application.git
+
+2. Backend (Spring Boot):
+   =>Open in STS/IntelliJ.
+   =>Configure application.properties with postgresql credentials.
+   =>Run TodoApi.java as a Spring Boot App.
+
+3. Frontend (Vite + React):
+   =>Navigate to  frontend folder.
+   =>Run npm install.
+   =>Start with npm run dev.
+   =>Open http://localhost:5173/ in the browser.
+
+   
